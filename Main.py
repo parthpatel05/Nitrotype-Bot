@@ -1,3 +1,4 @@
+# This just gives u a slight boost
 import pyautogui  # pip install pyautogui
 from PIL import Image, ImageGrab  # pip install pillow
 # from numpy import asarray
